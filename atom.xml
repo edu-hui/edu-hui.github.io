@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hipyt.cn/"/>
-  <updated>2019-09-17T12:59:12.000Z</updated>
+  <updated>2019-09-29T07:52:22.878Z</updated>
   <id>https://hipyt.cn/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>quan</title>
+    <link href="https://hipyt.cn/2019/09/29/quan/"/>
+    <id>https://hipyt.cn/2019/09/29/quan/</id>
+    <published>2019-09-29T07:52:22.000Z</published>
+    <updated>2019-09-29T07:52:22.878Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>博客开源</title>
