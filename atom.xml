@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hipyt.cn/"/>
-  <updated>2019-09-29T12:36:18.559Z</updated>
+  <updated>2019-09-29T12:41:03.118Z</updated>
   <id>https://hipyt.cn/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日记</title>
+    <link href="https://hipyt.cn/2019/09/29/ri-ji/"/>
+    <id>https://hipyt.cn/2019/09/29/ri-ji/</id>
+    <published>2019-09-29T12:39:40.000Z</published>
+    <updated>2019-09-29T12:41:03.118Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;2019年9月29日，今天和我们家的爱人一起带着宝宝去，黄金山送单。&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日记" scheme="https://hipyt.cn/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>quaner-binxin</title>
@@ -62,11 +90,11 @@
       <category term="软件安装与配置" scheme="https://hipyt.cn/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
     
     
-      <category term="博客" scheme="https://hipyt.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
       <category term="Hexo" scheme="https://hipyt.cn/tags/Hexo/"/>
     
       <category term="Github" scheme="https://hipyt.cn/tags/Github/"/>
+    
+      <category term="博客" scheme="https://hipyt.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   

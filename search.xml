@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>日记</title>
+      <link href="/2019/09/29/ri-ji/"/>
+      <url>/2019/09/29/ri-ji/</url>
+      
+        <content type="html"><![CDATA[<p>2019年9月29日，今天和我们家的爱人一起带着宝宝去，黄金山送单。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>quaner-binxin</title>
       <link href="/2019/09/29/quan-er-bing-xin/"/>
       <url>/2019/09/29/quan-er-bing-xin/</url>
@@ -39,11 +58,11 @@
       
         <tags>
             
-            <tag> 博客 </tag>
-            
             <tag> Hexo </tag>
             
             <tag> Github </tag>
+            
+            <tag> 博客 </tag>
             
         </tags>
       
