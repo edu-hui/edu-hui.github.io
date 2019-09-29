@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hipyt.cn/2019/09/29/quaner-binxin/</loc>
+    <loc>https://hipyt.cn/2019/09/29/quan-er-bing-xin/</loc>
     
-    <lastmod>2019-09-29T12:26:36.923Z</lastmod>
+    <lastmod>2019-09-29T12:36:18.559Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hipyt.cn/contact/index.html</loc>
+    
+    <lastmod>2019-09-29T12:35:09.666Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hipyt.cn/about/index.html</loc>
+    
+    <lastmod>2019-09-29T12:33:25.622Z</lastmod>
     
   </url>
   
@@ -30,7 +44,7 @@
   </url>
   
   <url>
-    <loc>https://hipyt.cn/about/index.html</loc>
+    <loc>https://hipyt.cn/categories/index.html</loc>
     
     <lastmod>2019-09-17T12:59:12.000Z</lastmod>
     
@@ -44,21 +58,7 @@
   </url>
   
   <url>
-    <loc>https://hipyt.cn/contact/index.html</loc>
-    
-    <lastmod>2019-09-17T12:59:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://hipyt.cn/friends/index.html</loc>
-    
-    <lastmod>2019-09-17T12:59:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hipyt.cn/categories/index.html</loc>
     
     <lastmod>2019-09-17T12:59:12.000Z</lastmod>
     
