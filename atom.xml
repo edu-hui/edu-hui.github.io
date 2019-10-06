@@ -90,11 +90,11 @@
       <category term="软件安装与配置" scheme="https://hipyt.cn/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
     
     
-      <category term="博客" scheme="https://hipyt.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
       <category term="Hexo" scheme="https://hipyt.cn/tags/Hexo/"/>
     
       <category term="Github" scheme="https://hipyt.cn/tags/Github/"/>
+    
+      <category term="博客" scheme="https://hipyt.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
